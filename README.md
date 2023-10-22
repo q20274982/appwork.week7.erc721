@@ -10,10 +10,6 @@
   2. ERC721 請與 Receiver 分成兩個不同的合約。
   3. 需測試執行完畢原始的 sender 可以收到原本的 token + NONFT token
 ```
-```solidity
-
-```
-
 
 ## 作業2 - 做一個隨機自由 mint token 的 ERC721
 ```
