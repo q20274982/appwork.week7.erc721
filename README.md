@@ -1,4 +1,8 @@
+
 # Appworks week7 assignment
+
+## Test Result
+[![test](https://github.com/q20274982/appwork.week7.erc721/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/q20274982/appwork.week7.erc721/actions/workflows/test.yml)
 
 ## 作業1 - 請實作一個 ERC721 token 和 Receiver Contract
 ```
